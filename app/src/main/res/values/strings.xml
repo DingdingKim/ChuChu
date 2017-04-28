@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChuChu</string>
+    <string name="chu_name">Melon!</string>
+    <string name="chu_name_placeholder">"???"</string>
+</resources>
