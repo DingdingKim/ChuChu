@@ -27,7 +27,7 @@ public class ActMain extends Activity {
     }
 
     @OnClick(R.id.main_img_chu)
-    void onclickTvClick(){
+    void onclickImgChuClick(){
         tv_chu_name.setText(R.string.chu_name);
 
         if(BuildConfig.FLAVOR.equals("melon")){
