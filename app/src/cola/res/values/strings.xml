@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ColaChu</string>
+    <string name="chu_name">Cola!</string>
+    <string name="chu_name_placeholder">"???"</string>
+</resources>
